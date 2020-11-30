@@ -1,0 +1,11 @@
+{
+        "country": "ESP",
+        "installation": "123456",
+        "device": "1",
+        "type": "SHOCK",
+        "medium": "ADSL",
+        "battery": "false",
+        "location": "SALON",
+        "timestamp": "1602073540",
+        "sensorvalue": "8"
+}
